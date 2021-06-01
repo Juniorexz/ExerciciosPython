@@ -1,0 +1,13 @@
+import calendar
+print(calendar.month(2021,12))
+print(calendar.month(2021,11))
+print(calendar.month(2021,10))
+print(calendar.month(2021,9))
+print(calendar.month(2021,8))
+print(calendar.month(2021,7))
+print(calendar.month(2021,6))
+print(calendar.month(2021,5))
+print(calendar.month(2021,4))
+print(calendar.month(2021,3))
+print(calendar.month(2021,2))
+print(calendar.month(2021,1))

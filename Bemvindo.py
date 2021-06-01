@@ -1,0 +1,5 @@
+nome = input('Nome: ') 
+sobrenome = input("Sobrenome: ") 
+idade = int( input("Idade: "))
+print(f'Seja bem-vindo {nome.strip().title()} {sobrenome.strip().title()}')
+print(f'Você possui {idade} anos de idade.')

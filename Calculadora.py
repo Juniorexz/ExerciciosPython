@@ -36,7 +36,6 @@ def resto():
     print(f"O resto seria {var1}%{var2} = {resto}")
 
 
-
 var1 = float( input("Digite um numero: ") )
 var2 = float( input("Digite outro numero: ") )
 
@@ -62,6 +61,7 @@ if __name__=='__main__':
 
     if escolha == '6':
         resto()
-     
+    
+    
 
 
